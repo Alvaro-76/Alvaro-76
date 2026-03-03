@@ -1,16 +1,54 @@
-## Hi there 👋
+# Álvaro Blanco Alarcón  
+🎮 Game Dev en formación | 💻 Programador autodidacta  
 
-<!--
-**Alvaro-76/Alvaro-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desde Basic hasta hoy: siempre construyendo y aprendiendo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+### 🎮 KodayGames
+Pequeños juegos indie experimentales.  
+Explorando mecánicas, diseño y desarrollo práctico.
+
+🔗 https://kodaygames.itch.io
+
+---
+
+### ☕ Aprendiendo Java
+Guía práctica desde cero con JDK 21.  
+Proyecto enfocado a enseñar programación paso a paso.
+
+🔗 https://alvaro-76.github.io/
+
+---
+
+### 🧊 C++ & Allegro
+Base sólida en programación estructurada y desarrollo de juegos 2D clásicos.
+
+🔗 http://devcpp-allegro.blogspot.com
+
+---
+
+## 🛠 Stack Principal
+
+**Game Dev**
+`Unity` · `C#` · `Blender` · `Photoshop`
+
+**Programación**
+`Java` · `C++` · `PHP` · `JavaScript`
+
+**Web**
+`HTML5` · `CSS3` · `MySQL`
+
+---
+
+## 🌐 Enlaces
+
+GitHub → https://github.com/Alvaro-76  
+itch.io → https://kodaygames.itch.io  
+Blog C++ → https://programacion-cpp.blogspot.com  
+
+---
+
+💡 Siempre aprendiendo.
