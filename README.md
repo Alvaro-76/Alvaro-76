@@ -21,6 +21,7 @@ Currículum interactivo hecho con React.
 Proyecto personal para presentar mi perfil.
 
 🔗 https://proyecto-cv-puce.vercel.app
+
 🔗 https://alvaro-76.github.io/proyecto-cv/
 
 ---
