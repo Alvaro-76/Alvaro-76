@@ -15,6 +15,15 @@ Explorando mecánicas, diseño y desarrollo práctico.
 
 ---
 
+### ⚛️ Proyecto CV (React)
+
+Currículum interactivo hecho con React.
+Proyecto personal para presentar mi perfil.
+
+🔗 https://proyecto-cv-puce.vercel.app
+
+---
+
 ### ☕ Aprendiendo Java
 Guía práctica desde cero con JDK 21.  
 Proyecto enfocado a enseñar programación paso a paso.
