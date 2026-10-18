@@ -56,7 +56,6 @@ Base sólida en programación estructurada y desarrollo de juegos 2D clásicos.
 
 ## 🌐 Enlaces
 
-GitHub → https://github.com/Alvaro-76  
 itch.io → https://kodaygames.itch.io  
 Blog C++ → https://programacion-cpp.blogspot.com  
 
